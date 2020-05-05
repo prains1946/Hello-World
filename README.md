@@ -1,3 +1,3 @@
 # Hello-World
-Just another repositiry
-Created this Cinco de Mayo
+Just another repository.
+Created this Cinco de Mayo!
